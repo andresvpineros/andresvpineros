@@ -1,5 +1,5 @@
-Hey! Nice to meet you.
+<h2>Hi 👋, I'm Andrés! 👨🏻‍💻</h2>
 
-- 👀 I’m a Software Developer.
-- 🌱 I’m currently learning .NET 7.
+Software Enginner at [Fundación Universitaria Internacional de La Rioja - UNIR Colombia](https://colombia.unir.net/) 🎓
+Full Stack Developer at [Imagemaker](https://www.imagemaker.com/?lang=en) 💻
 
