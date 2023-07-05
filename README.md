@@ -4,3 +4,24 @@
   Software Enginner at <a href="https://colombia.unir.net/">Fundación Universitaria Internacional de La Rioja - UNIR Colombia</a> 🎓</br> 
   Full Stack Developer at <a href="https://www.imagemaker.com/?lang=en">Imagemaker</a> 💻
 </p>
+
+<h3>Languages and tools:</h3>
+
+<code><img height="20" weight="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://logodix.com/logo/773600.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/33-335825_-net-core-logo-png-transparent-png.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/816/377/png-transparent-microsoft-sql-server-microsoft-sql-server-database-administrator-computer-icons-table-free-high-quality-sql-server-icon-miscellaneous-text-logo.png"></code>
+<code><img height="20" src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png"></code>
+<code><img height="20" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-2048x2048-3trjae80.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png"></code>
+
