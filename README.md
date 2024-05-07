@@ -1,8 +1,8 @@
 <h2>¡Hi 👋, I'm Andrés! 👨🏻‍💻</h2>
 
 <p>
-  Software Enginner at <a href="https://colombia.unir.net/">Fundación Universitaria Internacional de La Rioja - UNIR Colombia</a> 🎓</br> 
-  Full Stack Developer at <a href="https://www.imagemaker.com/?lang=en">Imagemaker</a> 💻
+  Full Stack Developer at <a href="https://www.imagemaker.com/?lang=en">Imagemaker</a> / <a href="https://sovos.com/co/">Sovos</a> 💻</br> 
+  Software Engineering Student at <a href="https://colombia.unir.net/">Fundación Universitaria Internacional de La Rioja - UNIR Colombia</a> 🎓
 </p>
 
 <h3>Languages and tools:</h3>
